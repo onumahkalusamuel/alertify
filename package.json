@@ -1,6 +1,6 @@
 {
     "name": "svelte-alertify",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "An alert dialogue for svelte, to replace the traditional browser alert.",
     "main": "index.js",
     "repository": "https://github.com/onumahkalusamuel/svelte-alertify",
