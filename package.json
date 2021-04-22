@@ -1,0 +1,15 @@
+{
+    "name": "svelte-alertify",
+    "version": "0.0.1",
+    "description": "An alert dialogue for svelte, to replace the traditional browser alert.",
+    "main": "index.js",
+    "repository": "https://github.com/onumahkalusamuel/svelte-alertify",
+    "author": "Onumah Kalu Samuel",
+    "license": "MIT",
+    "keywords": [
+        "svelte-alertify",
+        "alertify",
+        "svelte alert",
+        "svelte"
+    ]
+}
